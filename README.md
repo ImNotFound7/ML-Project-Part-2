@@ -67,7 +67,7 @@ This repository contains solutions for two Kaggle machine learning competitions:
 
 ## 📧 Authors
 
-- **Team: Shivek Ranjan
+- **Team: Shivek Ranjan**
    - Shivek Ranjan
    - Navish
    - Digvijaysinh Pawar
